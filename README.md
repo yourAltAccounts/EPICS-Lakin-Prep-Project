@@ -6,6 +6,7 @@ Both products were designed with cost-effectiveness in mind and can be manufactu
 
 
 Bounce Board CAD
+
 <img width="839" height="350" alt="Screenshot 2026-09-07 123749" src="https://github.com/user-attachments/assets/3bac986c-c490-4816-a05b-01256a5d5d8a" />
 
 Bounce Board Initial Prototype
@@ -14,6 +15,7 @@ Bounce Board Initial Prototype
 
 
 Bounce Board Final Product
+
 <img width="696" height="520" alt="Screenshot 2026-09-07 123844" src="https://github.com/user-attachments/assets/3d3c5aba-8183-49d2-a7f9-cb4871ab8ddc" />
 <img width="237" height="242" alt="Screenshot 2026-09-07 123851" src="https://github.com/user-attachments/assets/3bf2bdbc-ee74-4a96-b427-15fd0f31c693" />
 
@@ -21,6 +23,7 @@ Bounce Board Final Product
 
 
 Build and Balance Stress Tests
+
 <img width="894" height="362" alt="Screenshot 2026-09-07 123634" src="https://github.com/user-attachments/assets/ac1b02c2-264e-46a8-a455-c042c5c889fd" />
 
 
