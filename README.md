@@ -32,6 +32,7 @@ Build and Balance CAD
 <img width="899" height="359" alt="Screenshot 2026-09-07 123509" src="https://github.com/user-attachments/assets/0b412200-f27b-42d2-abe8-046c85dc1b27" />
 
 Build and Balance Initial Prototype
+
 <img width="270" height="359" alt="Screenshot 2026-09-07 123658" src="https://github.com/user-attachments/assets/a08e53f8-5b84-4510-a719-90f2c57e60bf" />
 
 
